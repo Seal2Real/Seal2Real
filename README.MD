@@ -20,7 +20,9 @@ Our work focuses on leveraging diffusion models for the generation and editing o
 
 3.  **Open Source for Reproducibility and Further Research:** The complete code for the Seal2Real framework is publicly available, encouraging reproducibility and fostering further advancements in the field of document seal analysis and generation.
 
+## 📚 Dataset
 
+The dataset is available at [https://github.com/liuyifan6613/DocBank-Document-Enhancement-Dataset](https://github.com/liuyifan6613/DocBank-Document-Enhancement-Dataset).
 
 ## 🛠️ Requirements
 
